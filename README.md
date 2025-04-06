@@ -8,4 +8,7 @@ Create visualizations based on sales data to identify key trends, patterns, and 
 - **PostgreSQL** – For querying raw sales data and managing databases 
 - **Tableau** - For creating interactive dashboards and visualizations from the cleaned dataset
 
-## Data
+## Data Source
+- **Sales Dataset via Kaggle** – Contains sales data (product_id, sales__date, sales_region, etc.)
+- **Link to Dataset** - https://www.kaggle.com/datasets/vinothkannaece/sales-dataset
+
