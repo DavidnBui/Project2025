@@ -1,0 +1,4 @@
+payment_id,payment_method,created_at
+1,Credit Card,2025-04-09 22:34:19.190614
+2,Bank Transfer,2025-04-09 22:34:19.190614
+3,Cash,2025-04-09 22:34:19.190614
